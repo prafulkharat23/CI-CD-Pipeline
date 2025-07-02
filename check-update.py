@@ -3,7 +3,7 @@ import git
 import os
 
 REPO_DIR = "/tmp/ci-cd-repo"
-REPO_URL = "https://github.com/prafulkharat23/git_assignment_HeroVired.git"
+REPO_URL = "https://github.com/prafulkharat23/CI-CD-Pipeline.git"
 BRANCH = "main"
 HASH_FILE = ".commit_hash"
 
